@@ -27,7 +27,7 @@ Algorithm used here is the deep deterministic policy gradient algorithm (ddpg). 
 
 ## Results
 
-<img src="Images/p2-Result.PNG" width="300" height="300" >
+<img src="https://github.com/kengying5/Continous-Control/blob/master/Images/p2-result.PNG" width="300" height="300" >
 
 ```
 Episode 815 (13s)	Mean: 14.7	Moving Avg: 24.1
