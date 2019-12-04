@@ -63,6 +63,3 @@ The environment is considered solved, when the average (over 100 episodes) of th
 ### Instructions
 
 Follow the instructions in `Continuous_Control.ipynb` to get started with training your own agent!  
-
-### Model architecture
-More information about the model architecture I used can be find in the [Report.md](/Report.md) file
